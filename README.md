@@ -1,6 +1,6 @@
 # comp230-pre-production
 
-My contribution to our game, Sol Tenebrae, is listed as follows and shown through the blueprint screenshots below. 
+One of my contributions for our game, Sol Tenebrae, is the enemy AI blueprint. I started with that then it was eventually built upon by my programmer peer and the designers. Additionally, I implemented the health pickup blueprint as well as the health drop, where the enemies have a 1/4 chance (editable) of dropping health.
 
 
 ## Health Pickup
